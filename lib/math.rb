@@ -29,7 +29,7 @@ num3
 end
 
 def square_root(num)
-root = num.Math.sqrt
+root = Math.sqrt(num)
 puts root
 root
 end
