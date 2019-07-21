@@ -23,7 +23,9 @@ num3
 end
 
 def modulo(num1, num2)
-
+num3 = num1 % num2
+puts num3
+num3
 end
 
 def square_root(num)
